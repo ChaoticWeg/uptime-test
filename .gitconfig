@@ -1,0 +1,2 @@
+[alias]
+    deploy-dist = subtree push --prefix dist origin gh-pages
